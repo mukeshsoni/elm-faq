@@ -76,14 +76,21 @@ Yup. It's called *Elm in Action*. You can buy it here - https://www.manning.com/
 ### Who can help me get answers in 140 characters or less?
 Hmm, you can follow these people on twitter -
 
-[Evan Czaplicki](https://twitter.com/czaplic)
+[ [Evan Czaplicki](https://twitter.com/czaplic)
 
-[Richard Feldman](https://twitter.com/rtfeldman)
+, [Richard Feldman](https://twitter.com/rtfeldman)
 
-[Luke](https://twitter.com/luke_dot_js)
+, [Luke](https://twitter.com/luke_dot_js)
 
-[Erin VonderHaar](https://twitter.com/avh4)
+, [Erin VonderHaar](https://twitter.com/avh4)
 
-[Josh Adams](https://twitter.com/knewter)
+, [Josh Adams](https://twitter.com/knewter)
 
-[Jamison](https://twitter.com/jergason)
+, [Jamison](https://twitter.com/jergason) ]
+
+### I am on vacation, give me more
+Aren't you supposed to have fun? Oh, i see what you did there 😉. Here's a curated list of links to peruse in your free time -
+
+[Maybe the Cookies API should not exist](http://tech.noredink.com/post/147676730053/maybe-the-cookies-api-should-not-exist)
+
+[How to Use Elm at Work](http://elm-lang.org/blog/how-to-use-elm-at-work)
