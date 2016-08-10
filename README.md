@@ -12,6 +12,8 @@ elm-make LearnElm.elm
 open index.html
 ```
 
+#### Why should i learn elm?
+
 #### What is `type Foo = A | B`?
 
 #### How to decode json?
