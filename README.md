@@ -43,6 +43,8 @@ Yes, just like it's compiler.
 
 ### Talking to the server (REST api?)?
 
+### How do i write a native module?
+
 ### How do i debug elm code?
 
 ### Can i console log stuff?
